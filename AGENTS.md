@@ -1,0 +1,2 @@
+# Engineering guidance
+Keep gameplay in the pure TypeScript engine, browser rendering and effects in the UI, persistence at a validated boundary. Use strict types without any. Validate externally supplied state. Test behavioral contracts with literal worked mathematical examples and controlled clocks. Keep assets original and cite gameplay research. Run typecheck, build and all tests before committing. Never overwrite other project saves or occupy an existing preview port. No public website deployment.
