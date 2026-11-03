@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "sourceCommit": "f299d453c36abafbd07d9b02a0913971aa15ca04",
+  "workflowCommit": "0823427f2af432669efb11daf57f0e52e3c1c77c",
+  "runId": "41619360682",
+  "browser": "153.0.8010.12",
+  "viewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "inputs": {
+    "assets/index-LyNw0cdR.css": "ee6505d3194e85c909eefad9a042c5bd2f5cccdfe77d374579b411f4ed51f1a5",
+    "assets/index-sP0LgO5z.js": "4baa916c5a2844a2e9c4eade442fc35f35115b2ba7b05116595f7760ce150960",
+    "index.html": "62d46bec3c330199c91c49b5e464dfe8ed0ae1cd2c42ebf58f00233597f9cec3"
+  },
+  "screenshots": [
+    "gameplay-01.png"
+  ]
+}

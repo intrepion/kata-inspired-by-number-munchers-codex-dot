@@ -1,6 +1,27 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-inspired-by-number-munchers-codex-dot",
   "playUrl": "https://intrepion.github.io/kata-inspired-by-number-munchers-codex-dot/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261103-01.jpg",
+      "sha256": "c66953f752a085ca210d3b52bc7e9452749a159357cf6ba15f5d5a705a9a0c3e",
+      "alt": "Lumen Orchard gameplay",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261103-01.png",
+        "sourceSha256": "a8c1143fbd5ecd74acc537677bb34f7b5e84d404e4e5244205b0bca221784fe8",
+        "captureCommit": "f299d453c36abafbd07d9b02a0913971aa15ca04",
+        "workflowRunId": "41619360682",
+        "inputHashes": {
+          "assets/index-LyNw0cdR.css": "ee6505d3194e85c909eefad9a042c5bd2f5cccdfe77d374579b411f4ed51f1a5",
+          "assets/index-sP0LgO5z.js": "4baa916c5a2844a2e9c4eade442fc35f35115b2ba7b05116595f7760ce150960",
+          "index.html": "62d46bec3c330199c91c49b5e464dfe8ed0ae1cd2c42ebf58f00233597f9cec3"
+        },
+        "publishedFilesVerifiedAt": "2026-11-03T10:27:49Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261103-record.json",
+        "captureRecordSha256": "6dd3b0be18f4f560e23f5809aa91552fe3dd4dd619340d7d4ba790fad63912ca"
+      }
+    }
+  ]
 }
