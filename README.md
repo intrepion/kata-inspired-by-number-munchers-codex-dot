@@ -58,3 +58,7 @@ This is a bounded slice: two original enemy roles, six patches, free pause, expl
 Strict TypeScript + Vite; no runtime dependencies, network requests, trackers or remote fonts. Pure game simulation (`src/game.ts`), mathematical rules/generation (`src/math.ts`), validated versioned persistence (`src/save.ts`) and DOM/audio adapter (`src/main.ts`). CI runs install, strict types, behavioral tests and production build on every push. The `.gitignore` includes the official GitHub Global Linux, Windows and macOS templates, plus project ignores. Templates retrieved from [github/gitignore](https://github.com/github/gitignore/tree/main/Global).
 
 MIT licensed; see [LICENSE](LICENSE).
+
+## Play online
+
+[Play on GitHub Pages](https://intrepion.github.io/kata-inspired-by-number-munchers-codex-dot/). Return to the [Kata Arcade](https://intrepion.github.io/).
